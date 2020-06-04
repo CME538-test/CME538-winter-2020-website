@@ -18,7 +18,7 @@ description: Introduction to Data Science
 author:
 email:
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: '/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://cme538.github.io/CME538-winter-2020-website/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings

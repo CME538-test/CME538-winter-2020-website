@@ -95,12 +95,12 @@
 }
 
 .label.label-lecture {
-  @extend .label-blue;
+  @extend .label-red;
   @include module-label();
 }
 
 .label.label-checkup {
-  @extend .label-grey;
+  @extend .label-red;
   @include module-label();
 }
 
@@ -110,7 +110,7 @@
 }
 
 .label.label-codealong {
-  @extend .label-green;
+  @extend .label-purple;
   @include module-label();
 }
 

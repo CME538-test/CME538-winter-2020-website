@@ -5,6 +5,7 @@ days:
   - date: 2021-01-04
     events:
       "**Lecture**{: .label .label-section } [Introduction to the Data Science landscape](#)":
+      "**Assignment**{: .label .label-section } [Assignment 1](#)":
   - date: 2021-01-05
     events:
       "**Lecture**{: .label .label-section } [Introduction to the Data Science landscape](#)":

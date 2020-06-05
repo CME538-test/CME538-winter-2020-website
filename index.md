@@ -7,9 +7,10 @@ description:
 
 # {{ site.description }}
 {: .mb-2 }
-{{ site.title }}
+{{ site.semester }}
 {: .fs-6 .fw-300 }
 
 {% if site.announcements %}
 {{ site.announcements.last }}
 {% endif %}
+

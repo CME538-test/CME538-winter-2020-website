@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CME538
 description: Introduction to Data Science
+semester: Winter 2021
 author:
 email:
 baseurl: '/CME538-winter-2020-website' # the subpath of your site, e.g. /blog

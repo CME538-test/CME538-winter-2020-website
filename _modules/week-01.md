@@ -4,19 +4,19 @@ title: Getting Up and Running
 days:
   - date: 2021-01-04
     events:
-      "**Lecture**{: .label .label-section } [Introduction to the Data Science landscape](#)":
+      "**Lecture**{: .label .label-lecture } [Introduction to the Data Science landscape](#)":
       "**Assignment**{: .label .label-section } [Assignment 1](#) (due Jan 11)":
   - date: 2021-01-05
     events:
-      "**Code-Along**{: .label .label-section } [](#)":
+      "**Code-Along**{: .label .label-codealong } [](#)":
   - date: 2019-04-06
     events:
-      "**Lecture**{: .label .label-section } [The Data Science workflow](#)":
+      "**Lecture**{: .label .label-lecture } [The Data Science workflow](#)":
   - date: 2019-04-07
     events:
-      "**Lab**{: .label .label-section } [](#)":
+      "**Lab**{: .label .label-lab } [](#)":
   - date: 2019-04-08
     events:
-      "**Lecture**{: .label .label-section } [Data Science Toolbox](#)":
-      "**Checkup**{: .label .label-section } [](#)":
+      "**Lecture**{: .label .label-lecture } [Data Science Toolbox](#)":
+      "**Checkup**{: .label .label-checkup } [](#)":
 ---

@@ -89,17 +89,35 @@
   }
 }
 
-.label.label-hw-out {
-  @extend .label-yellow;
+.label.label-assignment {
+  @extend .label-cyan;
   @include module-label();
 }
 
-.label.label-hw-due {
+.label.label-lecture {
+  @extend .label-blue;
+  @include module-label();
+}
+
+.label.label-checkup {
+  @extend .label-brown;
+  @include module-label();
+}
+
+.label.label-lab {
+  @extend .label-magenta;
+  @include module-label();
+}
+
+.label.label-codealong {
+  @extend .label-green;
+  @include module-label();
+}
+
+.label.label-booster {
   @extend .label-red;
   @include module-label();
 }
 
-.label.label-section {
-  @extend .label-purple;
-  @include module-label();
-}
+
+

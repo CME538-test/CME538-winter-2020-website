@@ -90,7 +90,7 @@
 }
 
 .label.label-assignment {
-  @extend .label-cyan;
+  @extend .label-red;
   @include module-label();
 }
 
@@ -100,12 +100,12 @@
 }
 
 .label.label-checkup {
-  @extend .label-brown;
+  @extend .label-grey;
   @include module-label();
 }
 
 .label.label-lab {
-  @extend .label-magenta;
+  @extend .label-yellow;
   @include module-label();
 }
 

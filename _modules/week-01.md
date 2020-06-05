@@ -5,7 +5,7 @@ days:
   - date: 2021-01-04
     events:
       "**Lecture**{: .label .label-lecture } [Introduction to the Data Science landscape](#)":
-      "**Assignment**{: .label .label-section } [Assignment 1](#) (due Jan 11)":
+      "**Assignment**{: .label .label-assignment } [Assignment 1](#) (due Jan 11)":
   - date: 2021-01-05
     events:
       "**Code-Along**{: .label .label-codealong } [](#)":

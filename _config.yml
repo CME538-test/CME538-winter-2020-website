@@ -17,8 +17,8 @@ title: CME538
 description: Introduction to Data Science
 author:
 email:
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/CME538-winter-2020-website' # the subpath of your site, e.g. /blog
+url: 'https://cme538.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings

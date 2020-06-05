@@ -1,29 +1,22 @@
 ---
 week: 2
-title: Basic Data Structures
+title: Data Manipulation with Pandas
 days:
-  - date: 2019-04-08
+  - date: 2021-01-11
     events:
-      "[Linked Lists & Encapsulation](#)":
-        "[3.1](#), [2.2](#), [2.3](#)"
-      "**HW 2 out**{: .label .label-hw-out }":
-        null
-  - date: 2019-04-09
+      "**Lecture**{: .label .label-section } [Python Basics Review](#)":
+      "**Assignment**{: .label .label-section } [Assignment 2](#) (due Jan 18)":
+  - date: 2021-01-12
     events:
-      "**Section**{: .label .label-section } [Linked Lists](#)":
-        "Solution"
-  - date: 2019-04-10
+      "**Code-Along**{: .label .label-section } [](#)":
+  - date: 2019-04-13
     events:
-      "[Resizing Arrays](#)":
-        "[2.4](#), [2.5](#)"
-  - date: 2019-04-11
+      "**Lecture**{: .label .label-section } [Working with DataFrames in Pandas 1](#)":
+  - date: 2019-04-14
     events:
-      "**Lab**{: .label } [Resizing Arrays](#)":
-        null
-  - date: 2019-04-12
+      "**Lab**{: .label .label-section } [](#)":
+  - date: 2019-04-15
     events:
-      "[Runtime Analysis](#)":
-        "[8.1](#), [8.2](#), [8.3](#), [8.4](#)"
-      "**HW 2 due**{: .label .label-hw-due }":
-        null
+      "**Lecture**{: .label .label-section } [Working with DataFrames in Pandas 2](#)":
+      "**Checkup**{: .label .label-section } [](#)":
 ---
